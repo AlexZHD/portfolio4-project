@@ -1,0 +1,7 @@
+"
+Data integration senior ETL application developer focused on turning data into information that is valuable to the business, effectively contributed in a variety of roles using multiple technologies
+" - Xconvert.jpg
+
+"
+Created PCI complied server-client solution in order to securely handle transactions for encrypted payments with major banks using Azure web services, Cosmos db, Maas, Swagger.
+" - Admin.jpg
