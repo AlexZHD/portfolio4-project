@@ -5,3 +5,25 @@ Data integration senior ETL application developer focused on turning data into i
 "
 Created PCI complied server-client solution in order to securely handle transactions for encrypted payments with major banks using Azure web services, Cosmos db, Maas, Swagger.
 " - Admin.jpg
+
+Final:
+"Programmed controls of multi-venture CVS cabinet for car emission testing which was presented in the SAE International show in Detroit." - CVS.jpg
+
+
+"I focused on turning data into information that is valuable to the business, effectively contributed in a variety of roles such as software developer, data engineer, and DevOps engineer."- Xconvert.jpg
+
+"Containerized Carbon Flow ML Model in Flask Docker with Python SciKit-Learn to run as a REST API service in a Kubernetes cluster on AWS secured VPC with KOPS and Terraform for ML model deployment" - K9.jpg
+
+"Setup Jenkins CI/CD pipeline with versioning and monitoring for canary and production deployments using Kubectl and Helm" - Jenkins.jpg
+
+"Introduced SRE engineering practice, improving company text RX messaging platform using Terraform,Nagios,Ansible,Grafana,Graylog for Safeway, Costco, Albertsons and other major carriers" - Terraform.jpg
+
+"Leading IT operations for PG&E’s Remote Grid wildfire mitigation initiative,ensuring high availability and integration of APIs across wildlife monitoring and ADMS platforms via MuleSoft." - RemoteGrid.jpg
+
+Blog: - Jan. 6, 2019, 7:32 a.m.
+"I added the map with past work places"
+"It was fun to work there...✈️" - Map.jpg
+
+July 31, 2019, midnight
+"New project: CarbonFlow ML model on Kubernetes AWS"
+    https://www.youtube.com/watch?v=cKMSX_JOeV8&feature=youtu.be
